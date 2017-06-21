@@ -1,7 +1,7 @@
-# BootCamp
-Computing Boot Camp for new (and other) KIPAC members, September 23-25, 2015
+# SLACSummerCrashCourse
+Computing Crash Course for new SLAC Summer Students, June 28-30, 2017
 
-Schedule can be found on the [website](https://kipac.github.io/BootCamp).
+Schedule can be found on the [website](https://mclaughlin6464.github.io/SLACSummerCrashCourse).
 
 ## See also
 
