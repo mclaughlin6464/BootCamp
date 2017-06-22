@@ -11,7 +11,7 @@ If you don't have an active SUNet ID, please download PuTTY from [this page](htt
 In both, you can also download and install [VcXsrv](http://sourceforge.net/projects/vcxsrv/). This allows you to see the graphic interfaces when connecting to a server with SSH. We won't use it in this tutorial but it may come handy at a later time. 
 
 
-## If you are using Mac OS (OS X):
+## If you are using Mac OS (OS X) or Linux:
 
 Open a "terminal" (under Applications/Utilities, or just type "terminal" in Spotlight), and type
 
