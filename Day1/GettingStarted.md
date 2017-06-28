@@ -1,6 +1,6 @@
 # Getting Started
 
-The lessons for the next 3 days will be shown in **jupyter notebooks**. You're reading one right now! Jupyter notebooks are
+The lessons for the next 3 days will be shown in **jupyter notebooks**. Jupyter notebooks are
 interactive computing enviornments. Jupyter notebooks render nicely online, so you can choose to just follow along [online](https://github.com/mclaughlin6464/SLACSummerCrashCourse).
 However, we **strongly** reccomend you install a few things so you can interact with the notebooks yourself! Here's what you should do:
 
