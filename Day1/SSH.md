@@ -19,4 +19,7 @@ Open a "terminal" (under Applications/Utilities, or just type "terminal" in Spot
 
 And enter your SUNet password to log in.
 
+Additionally, if you'd like to move a file from one place to another, you can use *secure copy * (scp). For example, this moves a file from cardinal to the current working directory. 
+
+    scp <your SUNet ID>@cardinal.stanford.edu:/path/to/file.txt .
 
